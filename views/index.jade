@@ -1,0 +1,5 @@
+extends layout
+
+block content
+  each line in poem.length ? poem : ['Oops... Empty response']
+    div(class="m_string")= line

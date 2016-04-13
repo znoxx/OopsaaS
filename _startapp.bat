@@ -1,0 +1,1 @@
+set DEBUG=stehi-app:* & npm start
