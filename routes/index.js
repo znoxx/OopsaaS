@@ -5,7 +5,7 @@ var stehi = require('../lib/stehi.js');
 /* GET home page. */
 router.get('/', function(req, res, next) {
   var poem = stehi.generatePoem();
-  res.render('index', { title: "Универсальный Стихоплёт", poem: poem });
+  res.render('index', { title: "Универсальный Поэт-Стихоплёт", poem: poem });
 });
 
 /* GET json */
