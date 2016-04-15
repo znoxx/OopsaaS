@@ -5,7 +5,7 @@ I generates random poem, using a skeletone.
 Can be accessed via http GET request and returns data via HTML response (can be embedded somwhere, for example) or JSON response.
 
 Этот проект является является исключительно иллюстрацией к демотиватору, найденному в сети:
-[!Универсальный стихоплёт](public/images/stihoplet.jpg)
+![Универсальный стихоплёт](public/images/stihoplet.jpg)
 
 ## Зачем ?
 
