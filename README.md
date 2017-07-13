@@ -1,4 +1,4 @@
-# Универсальный Поэт-Стихоплёт As A Service
+!# Универсальный Поэт-Стихоплёт As A Service
 
 Text below is in Russian. For non-russian readers - this project is just an illustration of node.js/express development.
 I generates random poem, using a skeletone.
@@ -29,4 +29,4 @@ Can be accessed via http GET request and returns data via HTML response (can be 
 
 Возвращает JSON-массив из 4х строк
 
-### Have Fun
+### Have Fun!
